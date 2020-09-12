@@ -1,3 +1,0 @@
-This is Second File
-
-Mengubah isi file dari second file.txt
